@@ -6,7 +6,7 @@
   "allowedOrigins": ["*"],
   "domain": "https://baobab-forms.co.uk",
   "basePath": "",
-  "mongo": "mongodb://root:examplePass@mongodb:27017/oss-formio?authSource=admin",
+  "mongo": "mongodb://mongodb:27017/oss-formio",
   "mongoConfig": "",
   "mongoCA": "",
   "mongoSecret": "--- change me now ---",
